@@ -13,11 +13,11 @@ The provided code is a BMI (Body Mass Index) calculator implemented in Python. I
 
 This project contains 5 codes :
 
-BMI Calculation:
+##BMI Calculation:
 
 The calculate function takes user input for weight and height, calculates the BMI, and categorizes it into different classes (e.g., underweight, normal, overweight, obese).
 It also prints the user's details and BMI in tabular form using the tabulate library.
-BMI Category and Health Risks:
+##BMI Category and Health Risks:
 
 The switch function handles user input to either calculate BMI or inquire about health risks associated with specific BMI categories.
 For each BMI category selected by the user, the code provides information about potential health risks and suggests dietary precautions, vitamins, and minerals needed.
@@ -26,11 +26,11 @@ User Input and OTP Verification:
 The main program prompts the user to enter personal details such as name, gender, age, weight, and height.
 An OTP (One-Time Password) is generated using the random module and presented to the user for access verification.
 The user must enter the correct OTP to gain access to the BMI calculator functionality.
-Program Flow:
+##Program Flow:
 
 The program uses nested loops to repeatedly prompt the user for OTP until the correct OTP is entered.
 Once access is granted, the user can choose to calculate BMI, inquire about health risks, or exit the program.
-Exit Functionality:
+##Exit Functionality:
 
 If the user chooses to exit, the program displays a thank-you message and terminates using sys.exit().
 It's important to note that this code seems to be designed for interactive use in a console or similar environment, given the use of user input prompts and console-based text display.

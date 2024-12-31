@@ -38,7 +38,8 @@ It's important to note that this code seems to be designed for interactive use i
 If you have any specific questions or if there's anything specific you'd like to know or modify in the code, feel free to let me know!
 
 OUTPUT:
-![image](https://github.com/user-attachments/assets/4000143a-db14-4023-a9db-14507c7f7bf2)
+
+![image](https://github.com/user-attachments/assets/85e3c3a3-4aa2-4ef3-8399-3249cc1d1b80)
 
 
 CONCLUSION:
